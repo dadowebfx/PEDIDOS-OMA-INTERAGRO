@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: AQUI PUEDES SUBIR Y CONFIRMAR TUS PEDIDOS.
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Mejora Continua
     text: >
