@@ -81,11 +81,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Puedes contactarnos a traves de whatsapp al numero 3154691830 o dejanos
+      tus datos en el siguiente formulario y nos pondremos en contacto lo antes
+      posible.
     media:
       fields:
         - name: name
