@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: AQUI PUEDES SUBIR
+      text: AQUI PUEDES SUBIR Y CONFIRMAR TUS PEDIDOS.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
