@@ -18,7 +18,7 @@ sections:
       por parte de la persona encargada, informandoles si existe alguna novedad
       con su pedido.
     actions:
-      - label: Get started
+      - label: Empieza con tu pedido
         altText: ''
         url: /
         showIcon: false
