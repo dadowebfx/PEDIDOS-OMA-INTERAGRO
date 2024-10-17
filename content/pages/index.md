@@ -8,8 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Mejora Continua
-    text: >
-      Esta web app ha sido creada con el proposito de mejorar los procesos de
+    text: >+
+      > Esta web app ha sido creada con el proposito de mejorar los procesos de
       confirmacion de pedidos entre el personal que labora en campo y el
       personal de bodega. Nuestra intencion es ir mejorando este proceso para
       que no se presenten inconvenientes como los que se han presentado en el
@@ -17,6 +17,7 @@ sections:
       clientes directos como indirectos y recibiran un mensaje de confirmacion
       por parte de la persona encargada, informandoles si existe alguna novedad
       con su pedido.
+
     actions:
       - label: Empieza con tu pedido
         altText: ''
