@@ -97,7 +97,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Tu correo
           isRequired: true
           width: full
           type: EmailFormControl
