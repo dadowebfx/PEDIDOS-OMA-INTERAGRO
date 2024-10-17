@@ -3,7 +3,7 @@ type: PageLayout
 title: PEDIDOS
 sections: []
 slug: Ingresa tu pedido
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Landing Page
