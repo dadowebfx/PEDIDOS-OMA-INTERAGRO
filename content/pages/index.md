@@ -9,9 +9,14 @@ sections:
       type: TitleBlock
     subtitle: Mejora Continua
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Esta web app ha sido creada con el proposito de mejorar los procesos de
+      confirmacion de pedidos entre el personal que labora en campo y el
+      personal de bodega. Nuestra intencion es ir mejorando este proceso para
+      que no se presenten inconvenientes como los que se han presentado en el
+      pasado. Mediante esta web app podran confirmar los pedidos que hagan tanto
+      clientes directos como indirectos y recibiran un mensaje de confirmacion
+      por parte de la persona encargada, informandoles si existe alguna novedad
+      con su pedido.
     actions:
       - label: Get started
         altText: ''
